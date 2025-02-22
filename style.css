@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    height: 100%;
+    width: 100%;
+}
+h1{
+    color: rgb(219, 245, 114); 
+    text-align: center;
+    background-color: rgb(122, 205, 177);
+    letter-spacing: 10px; 
+    word-spacing: 40px; 
+    font-size: 18px;
+    text-decoration:line-through;
+}
+p{
+    color: rgb(111, 112, 16);
+    text-align: center;
+    background-color: aquamarine;
+    /* font-style: oblique; */
+    font-family:cursive;
+}
+a{
+    text-decoration: none;
+    margin-left: 40%;
+}
