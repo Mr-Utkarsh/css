@@ -28,3 +28,11 @@ a{
     text-decoration: none;
     margin-left: 40%;
 }
+#a{
+    position: absolute;
+    width: 100%;
+    height: 90%;
+    background-color: rgb(161, 82, 235);
+    text-align: center;
+    top: 50%;
+}
