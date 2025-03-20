@@ -1,0 +1,16 @@
+.main{
+    text-shadow: 3px 3px 5px #e1acac;
+}
+
+.container{
+    background-color: antiquewhite;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+.container1{
+    background-color: rgb(157, 139, 115);
+    padding: 20px;
+    margin-top: 20px;
+    border: 3px solid rgb(255, 123, 0);
+}
